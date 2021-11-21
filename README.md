@@ -390,6 +390,8 @@ Here is the implementation for it:
        redlight->toggle();
 
 ```
+### Output
+
 
  #### Second one:
    .The red light should be activated for 4 seconds.  
@@ -412,6 +414,10 @@ Here is the implementation for it:
         redlight->toggle();
     lifetime=0;}
    ```
+   
+   ### Output
+   
+   
    #### Third one
    .If R button is pressed the red light should be activated.  
    .If Y button is pressed the yellow light should be activated.  
