@@ -321,6 +321,7 @@ int main(int argc, char *argv[])
 
 ```
 ### Output
+![image](https://user-images.githubusercontent.com/93820154/142775129-de54eb5f-1b47-41f1-88dd-064e090c68e0.png)
 
 
 ## Traffic Light
