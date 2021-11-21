@@ -390,7 +390,7 @@ Here is the implementation for it:
        redlight->toggle();
 
 ```
-### Output
+
 
 
  #### Second one:
@@ -415,7 +415,7 @@ Here is the implementation for it:
     lifetime=0;}
    ```
    
-   ### Output
+  
    
    
    #### Third one
@@ -440,7 +440,7 @@ Here is the implementation for it:
 
 }
 ```
-### Output
+
 
 
 ## Conclusion
